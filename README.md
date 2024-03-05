@@ -72,4 +72,4 @@ print("Zscore: ",df2[z["weight"]>3])
 ![image](https://github.com/RuchitraThiyagaraj/exno1/assets/154776996/6ad214e4-377f-43b7-9444-94625e61a6ca)
 
 # Result
-
+Hence given data is read and performed data cleaning and saved the cleaned data to a file
